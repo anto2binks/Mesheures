@@ -185,3 +185,6 @@ input:focus-visible, button:focus-visible { outline: 3px solid var(--accent); ou
   background: var(--texte); color: var(--fond); padding: 10px 16px; border-radius: 99px; font-weight: 600; z-index: 20;
   max-width: calc(100% - 32px); text-align: center;
 }
+
+/* Mention de droits d'auteur */
+.mention-droits { text-align: center; font-size: .8rem; margin: 20px 0 8px; }

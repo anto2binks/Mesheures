@@ -1,6 +1,6 @@
 // Service worker de MesHeures : usage hors ligne. Changer VERSION à chaque publication.
 // Il ne touche qu'au cache des fichiers, jamais aux horaires enregistrés.
-const VERSION = 'mesheures-v1';
+const VERSION = 'mesheures-v2';
 const FICHIERS = [
   './', 'index.html', 'css/style.css', 'js/app.js', 'js/calcul.js', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png', 'icons/apple-touch-icon.png',

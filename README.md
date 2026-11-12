@@ -30,3 +30,7 @@ Tout reste sur le téléphone (`localStorage`, clé `mesheures-v1`). Rien n'est 
 ## Mise en ligne
 
 Settings → Pages → Source : « Deploy from a branch », branche `main`, dossier `/ (root)`. L'application est alors disponible sur `https://anto2binks.github.io/mesheures/`.
+
+## Licence
+
+© 2026 Antoine M.M – Tous droits réservés. Aucune réutilisation sans autorisation écrite de l'auteur : voir [LICENSE](LICENSE).
